@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="welcomeTxt">Welcome to Kotlin World!</string>
+    <string name="ClickloginToBtn">CLICK HERE TO LOGIN</string>
+    <string name="pwdText">Password</string>
+    <string name="emailTxt">Email</string>
+    <string name="loginBtn">LOGIN</string>
+    <string name="successfulMsg">LOGIN SUCCESSFUL!</string>
+</resources>
